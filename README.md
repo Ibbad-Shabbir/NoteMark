@@ -57,7 +57,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Ibbad-Shabbir/NoteMark.git
-cd brainwave
+cd NoteMark
 ```
 
 **Installation**
