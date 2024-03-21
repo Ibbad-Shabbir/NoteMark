@@ -2,6 +2,7 @@
     <img  src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
     <img alt="Static Badge" src="https://img.shields.io/badge/electron-white?style=for-the-badge&logo=electron&logoColor=white&labelColor=1e1e1e&color=white">
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white&color=blue">
   </div>
   
 <h3 align="center">NoteMark</h3>
