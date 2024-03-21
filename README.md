@@ -25,6 +25,9 @@ NoteMark is a simple **Markdown** Editor developed using Vite, Electron.js and T
 -  ⚛ Electron.JS
 -  🌊 Tailwind css
 - ⚡ Vite.js
+- ⌨️ TypeScript
+- 👻 Jotai
+- Ⓜ️ MDXeditor
 
 ## <a name="features">🔋 Features </a>
 
